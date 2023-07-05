@@ -1,0 +1,7 @@
+.progress-bar {
+    background: rgba(255, 255, 255, 0.1);
+    border: 0.5px solid rgba(255, 255, 255, 0.18);  
+}
+.custom-border {
+    @apply border-r-[0.5px]  border-black/20;
+}
